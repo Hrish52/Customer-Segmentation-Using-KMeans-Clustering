@@ -1,4 +1,3 @@
-%%writefile README.md
 # Customer Segmentation Using K-Means Clustering
 
 This project demonstrates customer segmentation using the RFM (Recency, Frequency, Monetary) analysis framework combined with K-Means clustering. The goal is to identify distinct customer groups based on their purchasing behavior from an online retail dataset.
